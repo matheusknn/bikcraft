@@ -56,3 +56,43 @@ btn:hover {
 .link:hover {
   color: var(--cor-0);
 }
+
+.titulo-bg {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: var(--cor-11);
+}
+
+.titulo p {
+  margin-bottom: 4px;
+}
+
+@media (max-width: 800px) {
+  .titulo-bg {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .titulo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .titulo p {
+    text-transform: lowercase;
+    font-weight: 400;
+  }
+}
+
+@media (max-width: 800px) {
+  .titulo-bg {
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  .titulo {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .titulo p {
+    text-transform: lowercase;
+    font-weight: 400;
+  }
+}
