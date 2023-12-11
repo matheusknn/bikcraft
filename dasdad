@@ -1,0 +1,71 @@
+[33mcommit 63c994d4466c62fbb5d8df929a05a454c78dc3bf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: MATHEUS KENJI NISHIMURA <matheuskenji12345678@gmail.com>
+Date:   Mon Dec 11 15:24:06 2023 -0300
+
+    refazendo o HTML e CSS da página de termos e condições e seu responsivo
+
+[33mcommit f3473186763f9c38db2148287184cb4541939fb8[m
+Author: MATHEUS KENJI NISHIMURA <matheuskenji12345678@gmail.com>
+Date:   Mon Dec 11 12:34:19 2023 -0300
+
+    fazendo o HTML e CSS do rodapé
+
+[33mcommit 6fb974c9b6e7b1ae77af10e716e4056601906ef8[m
+Author: MATHEUS KENJI NISHIMURA <matheuskenji12345678@gmail.com>
+Date:   Mon Dec 11 12:02:17 2023 -0300
+
+    fazendo o HTML e CSS da seção de seguros da página principal
+
+[33mcommit 3b3e1c7b3ce2ef6b3a2fe2799ad890ae23b71ec1[m
+Author: MATHEUS KENJI NISHIMURA <matheuskenji12345678@gmail.com>
+Date:   Fri Dec 8 11:52:39 2023 -0300
+
+    fazendo o HTML e CSS da seção de depoimento da página principal e ajustando o padding das imagens da seção de parceiros
+
+[33mcommit 5e1a988d6b9bb41ec974338b89be4f7a727b92d7[m
+Author: MATHEUS KENJI NISHIMURA <matheuskenji12345678@gmail.com>
+Date:   Fri Dec 8 11:29:13 2023 -0300
+
+    Fazendo o HTML e CSS da seção de parceiros da página principal
+
+[33mcommit 12a71e586fbb8e322e78747ed89267d9eab3c2e5[m
+Author: MATHEUS KENJI NISHIMURA <matheuskenji12345678@gmail.com>
+Date:   Fri Dec 8 10:22:10 2023 -0300
+
+    HTML e CSS da parte de tecnologias das bicicletas terminados
+
+[33mcommit 5ec2021b267346b88ac13e8082651711dadd007b[m
+Author: MATHEUS KENJI NISHIMURA <matheuskenji12345678@gmail.com>
+Date:   Fri Dec 8 08:29:56 2023 -0300
+
+    fazendo o HTML e CSS da lista de bicicletas do arquivo index.html e criando um CSS utilitário para a classe container
+
+[33mcommit 02d2a349c020be69eb4d93462d44dd5c48ff27a8[m
+Author: MATHEUS KENJI NISHIMURA <matheuskenji12345678@gmail.com>
+Date:   Fri Dec 8 07:52:35 2023 -0300
+
+    fazendo um CSS utilitário para tipográfias e cores principais do site
+
+[33mcommit fcf320cabb862b8743b3e8c810ff071fbd4fdeff[m
+Author: MATHEUS KENJI NISHIMURA <matheuskenji12345678@gmail.com>
+Date:   Thu Dec 7 13:47:10 2023 -0300
+
+    separando o CSS em módulos e fazendo a importação deles para o arquivo style.css
+
+[33mcommit fea47a9f3cbf63d4f4c766df456be4f72bb60497[m
+Author: MATHEUS KENJI NISHIMURA <matheuskenji12345678@gmail.com>
+Date:   Thu Dec 7 13:30:48 2023 -0300
+
+    HTML e CSS da introdução da página principal terminados. E fontes poppins e roboto adicionadas
+
+[33mcommit a54341c4bb0c1369c84af437812c5d564ad85950[m
+Author: MATHEUS KENJI NISHIMURA <matheuskenji12345678@gmail.com>
+Date:   Thu Dec 7 11:23:36 2023 -0300
+
+    fazendo o HTML E CSS do cabeçalho da página
+
+[33mcommit 7d6032a3aa09128b609460c7f2b46566e706617e[m
+Author: MATHEUS KENJI NISHIMURA <matheuskenji12345678@gmail.com>
+Date:   Thu Dec 7 10:47:13 2023 -0300
+
+    arquivos iniciais colocados no projeto
