@@ -23,7 +23,7 @@ Bikcraft é um site responsivo e moderno, desenvolvido para destacar os produtos
 - JavaScript 
 
 ## Pré-requisitos
--qualquer navegador web
+- ter um navegador web instalado 
 
 ## Como Usar
 
