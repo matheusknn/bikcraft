@@ -48,4 +48,5 @@ Para questões ou sugestões, entre em contato via [e-mail](mailto:matheuskenji5
 
 ---
 
-**[Acesse o Bikcraft](matheusknn.github.io/bikcraft/)**
+## Veja O Projeto No Ar
+- <a href="https://matheusknn.github.io/bikcraft/">acesse o projeto clicando aqui<a/>
