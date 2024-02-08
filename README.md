@@ -19,9 +19,19 @@ Bikcraft é um site responsivo e moderno, desenvolvido para destacar os produtos
 ## Tecnologias Utilizadas
 
 - HTML5
-- CSS3
+- CSS3 
 - JavaScript 
 
+## Pré-requisitos
+-qualquer navegador web
+
+## Como Usar
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/matheusknn/bikcraft.git
+
+   
 ## Como Contribuir
 
 Se deseja contribuir para o desenvolvimento do Bikcraft, siga estas etapas:
